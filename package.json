@@ -1,6 +1,6 @@
 {
   "name": "setup-referee-sinon",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Provides ready-made test setups with referee and sinon. Optionally provides a global, synchronous “define” function to for AMD module integration.",
   "main": "index.js",
   "dependencies": {
