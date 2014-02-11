@@ -4,12 +4,12 @@
   "description": "Provides ready-made test setups with referee and sinon. Optionally provides a global, synchronous “define” function to for AMD module integration.",
   "main": "index.js",
   "dependencies": {
-    "formatio": "~1.0.2",
-    "node-define": ">= 0.1.1"
+    "formatio": "~1.0.2"
   },
   "peerDependencies": {
     "referee": ">= 0.11.1",
-    "referee-sinon": ">= 1.0.0"
+    "referee-sinon": ">= 1.0.0",
+    "node-define": ">= 0.1.1"
   },
   "repository": {
     "type": "git",
