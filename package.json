@@ -1,0 +1,31 @@
+{
+  "name": "setup-referee-sinon",
+  "version": "0.0.0",
+  "description": "Provides ready-made test setups with referee and sinon. Optionally provides a global, synchronous “define” function to for AMD module integration.",
+  "main": "index.js",
+  "dependencies": {
+    "formatio": "~1.0.2",
+    "node-define": ">= 0.1.1"
+  },
+  "peerDependencies": {
+    "referee": ">= 0.11.1",
+    "referee-sinon": ">= 1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/davidaurelio/setup-referee-sinon.git"
+  },
+  "keywords": [
+    "referee",
+    "sinon",
+    "test",
+    "setup",
+    "amd"
+  ],
+  "author": "David Aurelio <dev@david-aurelio.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidaurelio/setup-referee-sinon/issues"
+  },
+  "homepage": "https://github.com/davidaurelio/setup-referee-sinon"
+}
