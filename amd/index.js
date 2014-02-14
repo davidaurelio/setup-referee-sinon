@@ -1,5 +1,5 @@
-var testSetup = require('./');
 var define = require('node-define').requirejs.define;
+var testSetup = require('setup-referee-sinon');
 var referee = testSetup.referee;
 
 define('referee', function() { return referee; });
