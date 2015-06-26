@@ -1,6 +1,6 @@
 {
   "name": "setup-referee-sinon",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Provides ready-made test setups with referee and sinon.",
   "main": "index.js",
   "dependencies": {
