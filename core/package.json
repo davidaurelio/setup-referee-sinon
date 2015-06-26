@@ -9,7 +9,8 @@
   "peerDependencies": {
     "referee": ">= 0.11.1",
     "referee-sinon": ">= 1.0.0",
-    "sinon": ">= 1.0.2"
+    "sinon": ">= 1.0.2",
+	"sinon-as-promised": "^4.0.0"
   },
   "repository": {
     "type": "git",
